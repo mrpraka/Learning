@@ -1,3 +1,3 @@
 Welcome
 
-Jenkins<-->github
+Jenkins<-->github connected
